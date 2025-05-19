@@ -1,2 +1,3 @@
-for i in range(10):
-    print("Não desista")
+a = 2
+b = 3
+print(a + b)
